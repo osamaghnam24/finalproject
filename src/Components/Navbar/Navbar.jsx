@@ -66,7 +66,6 @@ export default function Navbar() {
                     <span className="icon-number text-black fw-bold fs-6 fst-italic">{cart.numOfCartItems}</span>
                   </div>:<div className="icon-container">
                     <i className="fa-solid fa-cart-shopping text-main fs-5"></i>
-                    <span className="icon-number text-black fw-bold fs-6 fst-italic">{cart.numOfCartItems}</span>
                   </div>}
                 
                 </Link>
